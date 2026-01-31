@@ -1,240 +1,99 @@
-🧟 Zombie Survival Game (Python)
+# **📌 Project: Zombie Survival Game (Python)**
 
 
 
-A 2D survival shooting game developed using Python and Pygame, focusing on gameplay mechanics, real-time interaction, and sound integration.
 
 
 
-🎯 Project Overview
 
+## **🎮 Zombie Survival Game – Python 2D**
 
 
-Project Name: Zombie Survival Game
 
 
 
-Role: Developer (Participated in full development)
 
 
+---
 
-Language: Python
+### **📖 Description**
 
+#### Zombie Survival Game is a 2D game developed using Python and the pygame library. The player controls a character to survive waves of zombies, earn scores, and end the game when health reaches zero. The project focuses on game logic, collision handling, and real-time event processing.
 
 
-Game Library: Pygame
 
 
 
-Project Type: Personal / Course Project
+---
 
+### **🛠 Technologies**
 
+* #### Python
+* #### pygame
+* #### math, random
+* #### os, array
+* #### datetime
 
 
 
-🕹️ Gameplay Features
 
 
+---
 
-Real-time player movement and shooting mechanics
+### **⚙️ Features**
 
 
 
-Zombie spawning with increasing difficulty
+* #### Keyboard-based character movement
+* #### Random zombie spawning
+* #### Collision detection between player and zombies
+* #### Score calculation
+* #### Game over condition
+* #### Game loop and event handling
 
 
 
-Collision detection between bullets and enemies
 
 
+---
 
-Integrated sound effects for shooting, hit, explosion, and game over
+### **▶️ How to Run**
 
+1. #### Clone this repository: git clone https://github.com/JangAnh/Zombie-Survival-Game-Python-
+2. Install required library:
+   	+ *pip install pygame*
+   ---
+3. #### Run the game:
 
+#### &nbsp;	+ *python main.py*
 
-Basic survival scoring system
+#### 📌 Make sure Python 3.x is installed on your machine.
 
 
 
-🛠 Technologies \& Game Concepts
 
 
+---
 
-Python (Standard Library)
+### **👤 Role \& Responsibilities**
 
+* #### Team Leader / Developer
+* #### Designed game logic and structure
+* #### Implemented all gameplay features
+* #### Debugged and optimized game performance
 
 
-Pygame
 
 
 
-Object-Oriented Programming (OOP)
+---
 
+### **📚 What I Learned**
 
-
-Game loop \& real-time rendering
-
-
-
-Event handling (keyboard \& mouse)
-
-
-
-Collision detection
-
-
-
-Audio system \& sound mixer
-
-
-
-Difficulty scaling logic
-
-
-
-📁 Project Structure
-
-Game/
-
-│-- Zombie\_game.py
-
-│-- sounds/
-
-│   │-- explosion.wav
-
-│   │-- gameover.wav
-
-│   │-- hit.wav
-
-│   │-- powerUp.wav
-
-│   │-- shoot.wav
-
-│-- README.md
-
-│-- .gitignore
-
-
-
-▶️ How to Run (IMPORTANT)
-
-1️⃣ Install Python
-
-
-
-Download Python from:
-
-https://www.python.org/
-
-
-
-✔ Remember to check Add Python to PATH
-
-
-
-2️⃣ Install dependencies
-
-
-
-This project uses Pygame, which is not included by default.
-
-
-
-pip install pygame
-
-
-
-3️⃣ Run the game
-
-python Zombie\_game.py
-
-
-
-🖼️ Screenshots
-
-
-
-Gameplay Preview
-
-!\[Gameplay Screenshot](screenshots/gameplay.png)
-
-
-
-
-
-👤 Role \& Responsibilities
-
-
-
-Role: Developer (Participated in full development)
-
-
-
-Responsibilities:
-
-
-
-Designed core gameplay mechanics and game loop
-
-
-
-Implemented player control, shooting, and enemy behavior
-
-
-
-Developed collision detection and difficulty scaling
-
-
-
-Integrated sound effects using Pygame mixer
-
-
-
-Structured project and managed version control with GitHub
-
-
-
-🚀 Future Improvements
-
-
-
-Add multiple stages and levels
-
-
-
-Improve zombie AI behavior
-
-
-
-Add main menu and pause system
-
-
-
-Add background music and sound settings
-
-
-
-Implement score saving and leaderboard
-
-
-
-👩‍💻 Author
-
-
-
-Name: Nguyen Thi Thanh Tam
-
-
-
-Major: Software Engineering
-
-
-
-📄 Notes
-
-
-
-This project demonstrates fundamental game development concepts using Python and Pygame, suitable for internship and entry-level game developer applications.
+* #### Algorithmic thinking and problem solving
+* #### Object-Oriented Programming (OOP) in Python
+* #### Event handling and game loop management
+* #### Resource and asset management
 
 
 
