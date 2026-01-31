@@ -62,7 +62,6 @@
 1. #### Clone this repository: git clone https://github.com/JangAnh/Zombie-Survival-Game-Python-
 2. Install required library:
    	+ *pip install pygame*
-   ---
 3. #### Run the game:
 
 #### &nbsp;	+ *python main.py*
